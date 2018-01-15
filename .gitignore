@@ -1,0 +1,17 @@
+# all project files
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.opensdf
+*.sdf
+*.suo
+
+# all cmake related files
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+
+# all debug related files
+Debug/
+StudyOpenglES.dir/
+Win32/
