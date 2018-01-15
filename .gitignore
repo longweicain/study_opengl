@@ -5,6 +5,7 @@
 *.opensdf
 *.sdf
 *.suo
+*.vcxproj.user
 
 # all cmake related files
 CMakeFiles/
@@ -13,5 +14,5 @@ CMakeCache.txt
 
 # all debug related files
 Debug/
-StudyOpenglES.dir/
+study_opengles.dir/
 Win32/
